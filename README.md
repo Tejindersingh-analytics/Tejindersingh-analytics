@@ -26,14 +26,17 @@ Multi-page analytics report exploring app performance, developer responsiveness,
 
 ### ⭐ **Airbnb Manhattan Revenue Analysis (Excel)**  
 Pivot-table project identifying high-performing neighborhoods and factors influencing booking revenue.
+Link:https://docs.google.com/spreadsheets/d/10O9cV8-AQuYT_sPKDhABOsUwHaqzgRQV/edit?usp=sharing
 
 ### ⭐ **Superstore Returns Dashboard (Tableau)**  
 Dashboard analyzing product returns across categories and regions. Highlights high-return segments and cost-reduction insights.
+Link: https://public.tableau.com/views/Book1_17640930672060/SuperstoreReturnsAnalysis
 
 ### ⭐ **Home Energy Optimization Story (BI Case Study)**  
 Personal BI deep dive analyzing A/C usage, heating/cooling patterns, and strategies for reducing home energy costs.
+Link : https://drive.google.com/file/d/1Yw4JKqLYwzIMJhUBHdp9NelR04yVTR_A/view?usp=sharing
 
-📌 **More dashboards on my Tableau Public:**  
+**More dashboards on my Tableau Public:**  
 🔗 https://public.tableau.com/app/profile/tejinder.singh
 
 ---
@@ -57,11 +60,16 @@ Personal BI deep dive analyzing A/C usage, heating/cooling patterns, and strateg
 ---
 
 ## 💬 Fun Facts  
-- I love anime, gaming, and storytelling — it inspires my dashboard style  
-- I run multiple businesses (insurance, notary, real estate, loans)  
-- Big believer in self-improvement, mindset, and daily leveling up  
-- Currently exploring calisthenics + data visualization challenges  
+I love anime, gaming, and storytelling — they inspire my creative dashboard style
+I run multiple businesses (insurance, notary, real estate, loans)
+Big believer in self-improvement, mindset, and leveling up every day
+Currently exploring a mix of calisthenics + data visualization challenges
 
+Multilingual:
+English (Fluent)
+Punjabi (Fluent)
+Hindi (Fluent)
+Urdu (Conversational)
 ---
 
 ## 🤝 Connect With Me  
