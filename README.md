@@ -9,6 +9,15 @@ My mission: **turn complex data into visuals anyone can understand.**
 
 ---
 
+## 🎥 Superstore Returns Analysis — 
+[![Watch the Demo](superstore-demo-thumbnail.png)](https://www.loom.com/share/a27fafb9dd5f4ef6bb75386438fe8544)
+
+
+> A short walkthrough of my Tableau dashboard analyzing customer returns across the U.S. — highlighting which states, categories, and customer segments drive the highest return rates, along with cost-reduction and trend insights.
+
+---
+
+
 ## 🚀 Skills & Tools  
 - **BI & Visualization:** Tableau, Power BI, Looker Studio  
 - **Data Analysis:** SQL (PostgreSQL), Excel (Pivot Tables, advanced formulas), DAX  
